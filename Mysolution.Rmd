@@ -49,7 +49,7 @@ ggplotly(plot1)
 ```
 
 
-El siguiente código muestra como se contruye la anterior gráfica.
+The following code shows how the previous graph is constructed.
 
 ```{r, message=FALSE, warning=FALSE,fig.align='center',fig.height=3, fig.width=5,eval=FALSE}
 #Package with data
